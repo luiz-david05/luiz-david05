@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning **JavaScipt/TypeScript, HTML, CSS**
 
 - 📫 How to reach me **
-    - [Instagram](https://www.instagram.com/luiz_davi.d/) target="_blank" rel="noreferrer"
+    <p align="left"> <a href="https://www.linkedin.com/in/luiz-david-silva-gomes-88542026b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="luiz david silva gomes" height="30" width="40" /></a> </p>
+    <p align="left"> <a href="https://www.instagram.com/luiz_davi.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="luiz david" height="30" width="40" /></a> </p>
 
 - languages and tools: 
 <p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">

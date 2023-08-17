@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiz-david05" alt="luiz-david05" /> </p>
 
 
-- 🌱 I’m currently learning **TypeScript, HTML, CSS**
+- 🌱 I’m currently learning **JavaScipt/TypeScript, HTML, CSS**
 
 - 📫 How to reach me **
     - [Instagram](https://www.instagram.com/luizdavi.d/)

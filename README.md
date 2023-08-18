@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Luiz David</h1>
-<h3 align="center">A beggining frontend developer from Brazil</h3>
-<h3 align="center">I'm currently studying System Analysis and Development at IFPI Teresina Central.</h3>
+<h1 align="left">Hi 👋, I'm Luiz David</h1>
+<h3 align="left">A beggining frontend developer from Brazil</h3>
+<h3 align="left">I'm currently studying System Analysis and Development at IFPI Teresina Central.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiz-david05" alt="luiz-david05" /> </p>
 
 

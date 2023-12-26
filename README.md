@@ -4,6 +4,9 @@
 <div>
 <a href="https://github.com/luiz-david05">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-david05&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+</div>
+<br>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=luiz-david05&show_icons=true&theme=tokyonight"
@@ -19,7 +22,6 @@
 <br>
 
 <div>
-
 *Skills:* 
 <p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>

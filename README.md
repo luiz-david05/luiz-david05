@@ -37,8 +37,8 @@
 <br> -->
 
 ## Hi, I am Luiz David! 
-<img align="right" height="160em" alt="anime-gif" src="https://media1.tenor.com/m/N8GbwEQrxpkAAAAC/totoro-anime.gif">
-</br>
+<img align="right" height="180em" alt="anime-gif" src="https://media1.tenor.com/m/N8GbwEQrxpkAAAAC/totoro-anime.gif">
+<br>
 
 <div>
 <a href="https://github.com/luiz-david05">
@@ -52,8 +52,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="30"/>
   </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/></p>
 </div>
-  
-</br>
 
 ## Contact 
 <div> 
@@ -62,8 +60,6 @@
  </br>
 </br>
 </div>
-
-## Snake animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiz-david05/luiz-david05/output/github-contribution-grid-snake-dark.svg">

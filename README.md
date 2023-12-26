@@ -42,7 +42,7 @@
  <div>
   <a href="https://github.com/luiz-david05">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-david05&layout=compact&langs_count=16&theme=tokyonight"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luiz-david05&show_icons=true&theme=tokionight&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luiz-david05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Skills

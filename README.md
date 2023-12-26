@@ -41,7 +41,7 @@
 
  <div>
   <a href="https://github.com/luiz-david05">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-david05&layout=compact&langs_count=16&theme=tokionight"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-david05&layout=compact&langs_count=16&theme=tokyonight"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luiz-david05&show_icons=true&theme=tokionight&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
@@ -52,6 +52,8 @@
   </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></p>
   <img align="right" height="180em" alt="anime-gif" src="https://tenor.com/pt-BR/view/totoro-anime-japan-wave-bye-gif-4605177">
 </div>
+
+<div class="tenor-gif-embed" data-postid="4605177" data-share-method="host" data-aspect-ratio="0.886525" data-width="100%"><a href="https://tenor.com/view/totoro-anime-japan-wave-bye-gif-4605177">龍貓 GIF</a>from <a href="https://tenor.com/search/totoro-gifs">Totoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 </br>
 

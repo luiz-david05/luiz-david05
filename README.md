@@ -50,10 +50,8 @@
   <p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></p>
-  <img align="right" height="180em" alt="anime-gif" src="https://tenor.com/pt-BR/view/totoro-anime-japan-wave-bye-gif-4605177">
+  <img align="right" height="180em" alt="anime-gif" src="./video/totoro-anime.mp4">
 </div>
-
-<div class="tenor-gif-embed" data-postid="4605177" data-share-method="host" data-aspect-ratio="0.886525" data-width="100%"><a href="https://tenor.com/view/totoro-anime-japan-wave-bye-gif-4605177">龍貓 GIF</a>from <a href="https://tenor.com/search/totoro-gifs">Totoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 </br>
 

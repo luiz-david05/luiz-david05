@@ -52,7 +52,7 @@
   <img height="40" align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="anime-gif" src="<iframe src="https://giphy.com/embed/yALcFbrKshfoY" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/movie-cute-yALcFbrKshfoY">via GIPHY</a></p>">
+  <img align="right" height="180em" alt="anime-gif" src="http://kawaii-desu-satan.tumblr.com/post/43918258476">
 </div>
   
 </br>

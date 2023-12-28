@@ -1,5 +1,5 @@
 ## Hi, I am Luiz David! 
-<img align="right" height="150em" alt="anime-gif" src="https://media1.tenor.com/m/N8GbwEQrxpkAAAAC/totoro-anime.gif">
+<img align="right" height="150em" alt="anime-gif" src="totoro.gif">
 <br>
 
 <div>
